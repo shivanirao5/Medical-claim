@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+opencv-python-headless
+pytesseract
+pdf2image
+numpy
+PyPDF2
+pydantic
+python-dotenv
+google-cloud-documentai
+google-auth
+PyMuPDF
+requests
+difflib
