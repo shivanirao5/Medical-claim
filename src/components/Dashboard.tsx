@@ -20,7 +20,7 @@ export interface AnalysisItem {
 
 export interface PatientInfo {
   name: string;
-  relation: 'Self' | 'Spouse' | 'Child' | 'Parent' | 'Sibling' | 'Other';
+  relation: 'Self' | 'Spouse' | 'Child' | 'Parent';
   age?: number;
   gender?: 'Male' | 'Female' | 'Other';
 }
